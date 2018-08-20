@@ -1,3 +1,5 @@
+baseurl: /oneradish
+
 title: test
 
 theme: jekyll-theme-slate
